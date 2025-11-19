@@ -1,0 +1,74 @@
+Pulling Singularity image motus_3.0.1.sif...
+INFO:    Using cached SIF image
+Executing mOTUs analysis script inside container...
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+head: test1.motus: No such file or directory
+awk: test1.motus: No such file or directory
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+head: tp_read_count.motus: No such file or directory
+awk: tp_read_count.motus: No such file or directory
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+head: tp_tax.motus: No such file or directory
+awk: tp_tax.motus: No such file or directory
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+head: tp_merge.motus: No such file or directory
+awk: tp_merge.motus: No such file or directory
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+head: test2.motus: No such file or directory
+awk: test2.motus: No such file or directory
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+head: mt_read_count.motus: No such file or directory
+awk: mt_read_count.motus: No such file or directory
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+head: mt_tax.motus: No such file or directory
+awk: mt_tax.motus: No such file or directory
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+head: mt_merge.motus: No such file or directory
+awk: mt_merge.motus: No such file or directory
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+Error loading file: /usr/local/share/motus-3.0.1/db_mOTU/db_mOTU_versions
+Try to download again the motus profiler
+job finished

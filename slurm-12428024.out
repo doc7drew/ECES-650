@@ -1,0 +1,15 @@
+Pulling Singularity image motus_3.0.1.sif...
+INFO:    Converting OCI blobs to SIF format
+INFO:    Starting build...
+Getting image source signatures
+Copying blob sha256:10c3039f1413ca98f1f908e14e70b5553eb8287d3e5ff44318b65ede1f3e2498
+Copying blob sha256:c1a16a04cedd950c541fa85e64b62b17eb3b73a7f7e29ea3db23dc9b83dfcade
+Copying blob sha256:4ca545ee6d5db5c1170386eeb39b2ffe3bd46e5d4a73a9acbebc805f19607eb3
+Copying config sha256:e22afe228f2e86424e42cd071cee83075276b7441f29a5bed2d1446f835e4a4f
+Writing manifest to image destination
+Storing signatures
+2025/11/17 13:47:14  info unpack layer: sha256:c1a16a04cedd950c541fa85e64b62b17eb3b73a7f7e29ea3db23dc9b83dfcade
+2025/11/17 13:47:15  info unpack layer: sha256:4ca545ee6d5db5c1170386eeb39b2ffe3bd46e5d4a73a9acbebc805f19607eb3
+2025/11/17 13:47:15  info unpack layer: sha256:10c3039f1413ca98f1f908e14e70b5553eb8287d3e5ff44318b65ede1f3e2498
+INFO:    Creating SIF file...
+slurmstepd: error: *** JOB 12428024 ON node039 CANCELLED AT 2025-11-17T14:45:20 DUE TO TIME LIMIT ***

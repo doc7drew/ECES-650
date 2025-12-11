@@ -1,0 +1,4 @@
+This folder contains the code for the various programs used.
+
+Script for QIIME2
+Code for statistical analysis using vegan and maaslin3
